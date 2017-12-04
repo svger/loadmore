@@ -9,5 +9,5 @@
 | needSrcollLoading | 是否开启上拉加载功能 | boolean    | false |
 | onDragRefresh | 下拉刷新回调 | function    | () => {} |
 | onScrollLoad | 上拉加载回调 | function    | () => {} |
-| isOver | 数据是否加载完成的标志 | boolean    | () => {} |
+| isOver | 数据是否加载完成的标志 | boolean    | false |
 | prefixCls | 样式前缀，如：`cefc-tabs`，可用于自定义样式 | string   | `cefc-tabs` |
